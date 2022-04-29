@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-logo {
+    font-family: 'Pacifico', cursive;
+    color: darkred!important;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+    text-shadow: #070707 2px 2px;
+}
+
+.fonte-titulo-corpo {
+    font-family: 'Pacifico', cursive;
+    color: darkred;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
+
+.card-border {
+    border-color: darkred;
+}
+
+.botao-cor {
+    background-color: darkred;
+    border: 0;
+    color: #fff;
+}
+
+.botao-cor:hover {
+    background-color: lightcoral;
+    color: #070707;
+    transition: 0.2s ease-out;
+    cursor: pointer;
+}
+
+.card-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.icon {
+    font-size: 0.9em;
+    margin-right: 8px;
+}
+
+.link-footer {
+    text-decoration: none;
+}
+
+.link-footer:hover {
+    color: #070707!important;
+}
